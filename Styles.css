@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.Úvod {
+    background-color: #0070E0;
+    text-align: center;
+    color: white;
+}
+
+div.Odkaz {
+    text-align: center;
+}
+
+a {
+    padding: 20px;
+    text-decoration: none;
+    font-weight: 700;
+    color: #0070E0;
+}
+
+li.a {
+    color: #0070E0;
+    font-weight: 700;
+}
+
+span {
+    font-weight: 700;
+    padding: 20px;
+}
+
+div.Záver {
+    text-align: center;
+}
+
+html {
+  scroll-behavior: smooth;
+}
